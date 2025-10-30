@@ -1,73 +1,70 @@
-# Welcome to your Lovable project
+# 🌱 SkillBloom — Empowering Students to Grow Skills Daily
 
-## Project info
+SkillBloom is a global student skill-growth platform built to help learners develop real-world abilities through simple daily tasks, progress tracking, and AI-powered study support.
 
-**URL**: https://lovable.dev/projects/0d8e5a79-66ae-4962-b97a-ec9ee01a53b1
+Created during **Programmify PIP4 Builder Internship — Build Week 2**, SkillBloom focuses on consistent learning habits, real skill development, and actionable career readiness — one small step at a time.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🎯 Problem
 
-**Use Lovable**
+Students across the world struggle with:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0d8e5a79-66ae-4962-b97a-ec9ee01a53b1) and start prompting.
+- Knowing which skills matter in real life
+- Staying consistent with self-learning
+- Finding structure, accountability, and feedback
+- Tracking growth over time
+- Knowing *what to do next*
 
-Changes made via Lovable will be committed automatically to this repo.
+Traditional education rarely teaches **learning discipline**, **real-world skills**, and **reflection habits**.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 💡 Solution
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+SkillBloom provides a student-friendly personal learning companion where users can:
 
-Follow these steps:
+- ✅ Receive simple daily learning tasks
+- ✅ Track progress, streaks, and milestones
+- ✅ Log reflections to reinforce learning
+- ✅ Get AI-powered study recommendations
+- ✅ Build career-ready skills through habit building
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+**Learn smarter. Grow daily. Bloom into your potential. 🌱**
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## Key Features
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+| Feature | Description |
+|--------|-------------|
+📚 Daily skill tasks | Practical habit-building tasks  
+📅 Streaks & progress | Motivation to stay consistent  
+🧠 AI study assistant | Personalized guidance & tips  
+📝 Reflection journal | Understand + reinforce learning  
+📊 Skills dashboard | Track what you're growing  
+🌍 Global students focus | Designed for worldwide learners  
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Target Audience
 
-**Use GitHub Codespaces**
+- Students & university learners  
+- Self-taught tech beginners  
+- Early-career professionals  
+- Global upskilling communities  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## Tech Stack
 
-This project is built with:
+| Layer | Tech |
+|------|------|
+Framework | Next.js + TypeScript  
+UI | Tailwind CSS + shadcn/ui  
+Database | Firebase / Supabase (finalizing)  
+Auth | Clerk / Firebase Auth  
+AI | Gemini / OpenRouter API  
+Deployment | Vercel  
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/0d8e5a79-66ae-4962-b97a-ec9ee01a53b1) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
